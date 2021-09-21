@@ -27,3 +27,4 @@ print('Intial list: ', arr)
 b = set(arr)
 #convert back modified set into list 
 print('Modified List: ',list(b))"""
+
