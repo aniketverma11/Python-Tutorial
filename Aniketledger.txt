@@ -1,0 +1,5 @@
+Balance is 0 
+Deposite500
+Balance is 500
+withdraw100
+Balance is 400

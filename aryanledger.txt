@@ -1,0 +1,2 @@
+withdraw100
+Balance is 300
